@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Generated outputs
+scene_features.npy
+text_embeddings.npy
+labels.npy
+captions.npy
+labels.txt
+captions.txt
